@@ -16,6 +16,4 @@
 ![Описания не будет](https://vk.com/pozivnoy_sarmat?z=photo258435281_457247074%2Falbum258435281_0%2Frev)
 
 
-
-
-<image src="/desctop/my_image.jpg" alt="Текст с описанием картинки">
+![text](my_image.jpg)
